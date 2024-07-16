@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?php
 
 /**
@@ -8,6 +9,9 @@
  * @link       https://github.com/thodorisit/LinkToUsername
 */
 
+=======
+<?php 
+>>>>>>> 3a6d54c... Init commit
 class LinkToUsername {
 
     public function facebook($term) {
@@ -68,4 +72,8 @@ class LinkToUsername {
         }
     }
 
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 3a6d54c... Init commit
